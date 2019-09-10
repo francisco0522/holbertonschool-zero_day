@@ -1,4 +1,1 @@
-touch up_to_date
-git add 0x03-git
-git commit -m 'How to be up to date in git'
-git push origin master
+git pull origin master
